@@ -1,0 +1,209 @@
+/* screen - macbook-pro-14u34-u45-2-porfifolio-u4514 */
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1401px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-row {
+  gap: 76px;
+  height: 2095px;
+  margin-left: -6040px;
+  margin-top: 3394px;
+  min-width: 971px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col {
+  flex-direction: column;
+  gap: 243px;
+  min-height: 2095px;
+  width: 428px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col-1 {
+  align-items: flex-start;
+  gap: 243px;
+  min-height: 2095px;
+  width: 467px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col-2 {
+  align-items: flex-start;
+  gap: 243px;
+  margin-left: 1px;
+  margin-top: 3394px;
+  min-height: 2147px;
+  width: 3095px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-row-1 {
+  min-width: 1868px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-row-2 {
+  align-self: flex-end;
+  height: 978px;
+  min-width: 3013px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col-3 {
+  align-items: center;
+  margin-left: 1973px;
+  min-height: 945px;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .chrome-top {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  display: flex;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .overlap-group {
+  height: 34px;
+  position: relative;
+  width: 240px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .chrome-navigation-bar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 12px;
+  margin-top: 4px;
+  padding: 4px 12px;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-row-3 {
+  height: 839px;
+  margin-right: 13.0px;
+  margin-top: 24px;
+  min-width: 1397px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col-4 {
+  align-items: flex-end;
+  min-height: 839px;
+  width: 510px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .logo-pdf-1 {
+  align-self: flex-start;
+  height: 93px;
+  object-fit: cover;
+  width: 349px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--froly);
+  border-radius: 10px;
+  display: flex;
+  height: 71px;
+  justify-content: flex-end;
+  margin-right: 4px;
+  margin-top: 195px;
+  min-width: 437px;
+  padding: 23px 34px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .healthy-harvest-food-bank-website {
+  letter-spacing: 4.00px;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 368px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .overlap-group3 {
+  height: 435px;
+  margin-top: 45px;
+  position: relative;
+  width: 441px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .rectangle-12 {
+  background-color: var(--froly);
+  border-radius: 10px;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 226px;
+  width: 437px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .more-about-the-project {
+  left: 96px;
+  letter-spacing: 4.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 249px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .redesigning-healthy {
+  color: #717171;
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.40px;
+  line-height: 32.0px;
+  position: absolute;
+  top: 0;
+  width: 441px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .title {
+  letter-spacing: 6.40px;
+  line-height: normal;
+  margin-left: 424px;
+  margin-top: 50px;
+  min-height: 38px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .about-me {
+  letter-spacing: 6.40px;
+  line-height: normal;
+  margin-left: 67px;
+  margin-top: 50px;
+  min-height: 38px;
+  min-width: 142px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .resume {
+  letter-spacing: 6.40px;
+  line-height: normal;
+  margin-left: 67px;
+  margin-top: 50px;
+  min-height: 38px;
+  min-width: 111px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-col-5 {
+  display: flex;
+  flex-direction: column;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u4514 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+}

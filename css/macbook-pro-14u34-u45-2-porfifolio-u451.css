@@ -1,0 +1,170 @@
+/* screen - macbook-pro-14u34-u45-2-porfifolio-u451 */
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1401px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-row {
+  gap: 76px;
+  height: 2095px;
+  margin-left: -4390px;
+  margin-top: 3394px;
+  min-width: 971px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-col {
+  flex-direction: column;
+  gap: 243px;
+  min-height: 2095px;
+  width: 428px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-col-1 {
+  gap: 243px;
+  min-height: 2095px;
+  width: 467px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-col-2 {
+  gap: 243px;
+  margin-left: 1px;
+  margin-top: 3394px;
+  min-height: 2147px;
+  width: 3095px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1868px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 978px;
+  min-width: 3013px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-col-3 {
+  margin-left: 323px;
+  min-height: 852px;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .chrome-top {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  display: flex;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .overlap-group {
+  height: 34px;
+  position: relative;
+  width: 240px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .chrome-navigation-bar {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 12px;
+  margin-top: 4px;
+  padding: 4px 12px;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 61px;
+  height: 435px;
+  margin-left: 51px;
+  margin-top: 24px;
+  min-width: 741px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .logo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  min-height: 435px;
+  width: 399px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .logo-pdf-1 {
+  height: 93px;
+  object-fit: cover;
+  width: 349px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .logo_mintly-1 {
+  align-self: flex-end;
+  height: 278px;
+  width: 312px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .healthy-harvest-food-bank {
+  letter-spacing: 4.00px;
+  line-height: normal;
+  margin-bottom: 86px;
+  min-height: 24px;
+  min-width: 281px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .tools-adobe-suites {
+  letter-spacing: 4.00px;
+  line-height: normal;
+  margin-left: 121px;
+  margin-top: 103px;
+  min-height: 48px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--froly);
+  border-radius: 10px;
+  display: flex;
+  height: 71px;
+  justify-content: flex-end;
+  margin-left: 109px;
+  margin-top: 89px;
+  min-width: 261px;
+  padding: 23px 36px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .more-about-mintly {
+  color: transparent;
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 4.00px;
+  line-height: normal;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 188px;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .span0 {
+  color: #fcfcfe;
+}
+
+.macbook-pro-14u34-u45-2-porfifolio-u451 .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}

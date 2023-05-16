@@ -1,0 +1,122 @@
+/* screen - splash-screen-mintly */
+
+.splash-screen-mintly {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 810px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.splash-screen-mintly .overlap-group {
+  height: 828px;
+  margin-left: -5px;
+  margin-top: -18px;
+  position: relative;
+  width: 380px;
+}
+
+.splash-screen-mintly .frame {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 803px;
+  left: 11px;
+  position: absolute;
+  top: 25px;
+  width: 369px;
+}
+
+.splash-screen-mintly .rectangle-25 {
+  height: 810px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 375px;
+}
+
+.splash-screen-mintly .i-phone-x-11-pro-black {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 0;
+  min-height: 67px;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.splash-screen-mintly .i-phone-x-11-pro-black-1 {
+  color: #666666;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.splash-screen-mintly .i-phone-x-11-pro-black-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 232px;
+  height: 44px;
+  padding: 15.3px 14.7px;
+  width: 375px;
+}
+
+.splash-screen-mintly .left-side {
+  height: 11px;
+  margin-bottom: 0.41px;
+  margin-left: 19px;
+  width: 28px;
+}
+
+.splash-screen-mintly .right-side {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  min-width: 67px;
+}
+
+.splash-screen-mintly .icon-bar_chart {
+  align-self: center;
+  width: 17px;
+}
+
+.splash-screen-mintly .icon-signal {
+  width: 15px;
+}
+
+.splash-screen-mintly .battery {
+  align-self: flex-end;
+  height: 11px;
+  margin-bottom: 0;
+  width: 24px;
+}
+
+.splash-screen-mintly .home-indicator {
+  background-color: var(--black);
+  border-radius: 100px;
+  height: 5px;
+  left: 126px;
+  position: absolute;
+  top: 805px;
+  width: 134px;
+}
+
+.splash-screen-mintly .logo_mintly-1 {
+  height: 278px;
+  left: 63px;
+  position: absolute;
+  top: 204px;
+  width: 312px;
+}
+
+.splash-screen-mintly .icon {
+  height: 11px;
+  margin-top: 0;
+}

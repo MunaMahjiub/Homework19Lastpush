@@ -1,0 +1,70 @@
+/* screen - frame */
+
+.frame {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  min-width: 430px;
+}
+
+.frame .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 136px;
+  min-height: 204px;
+  width: 3px;
+}
+
+.frame .rectangle {
+  background-color: var(--celeste);
+  border-radius: 1px 0px 0px 1px;
+  box-shadow: inset 1px 0px 2px #ffffff;
+  height: 30px;
+  width: 3px;
+}
+
+.frame .rectangle-1 {
+  background-color: var(--celeste);
+  border-radius: 1px 0px 0px 1px;
+  box-shadow: inset 1px 0px 2px #ffffff;
+  height: 62px;
+  margin-top: 32px;
+  width: 3px;
+}
+
+.frame .rectangle-2 {
+  background-color: var(--celeste);
+  border-radius: 1px 0px 0px 1px;
+  box-shadow: inset 1px 0px 2px #ffffff;
+  height: 62px;
+  margin-top: 18px;
+  width: 3px;
+}
+
+.frame .overlap-group {
+  align-items: center;
+  background-color: #e6e6e6;
+  border-radius: 62px;
+  box-shadow: inset 0px 0px 8px #0000004c;
+  display: flex;
+  height: 865px;
+  min-width: 424px;
+  padding: 0 4px;
+}
+
+.frame .rectangle-3 {
+  background-color: var(--black);
+  border-radius: 58px;
+  height: 857px;
+  width: 416px;
+}
+
+.frame .rectangle-4 {
+  background-color: var(--celeste);
+  border-radius: 0px 1px 1px 0px;
+  box-shadow: inset -1px 0px 2px #ffffff;
+  height: 100px;
+  margin-top: 220px;
+  width: 3px;
+}

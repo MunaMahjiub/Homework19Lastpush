@@ -1,0 +1,194 @@
+:root { 
+  --bittersweet: #f46b5d;
+  --black: #000000;
+  --black-2: #00000026;
+  --cape-cod: #3d4043;
+  --casablanca: #f9bd4e;
+  --celeste: #cccccc;
+  --como: #4f7b67;
+  --eerie-black: #191919;
+  --froly: #f17e7e;
+  --mantis: #57c353;
+  --mercury: #dfe1e6;
+  --mine-shaft: #333333;
+  --nebula: #cfdfd8;
+  --san-marino: #3e6ea7;
+  --selective-yellow: #fbbc05;
+  --spindle: #b6cff4;
+  --storm-dust: #606368;
+  --white: #ffffff;
+  --wild-sand: #f1f3f4;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 20px;
+  --font-size-s: 14px;
+  --font-size-xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-xxs: 10px;
+  --font-size-xxxs: 5px;
+ 
+  --font-family-bebas_neue: "Bebas Neue", Helvetica;
+  --font-family-hind: "Hind", Helvetica;
+  --font-family-iceland: "Iceland", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-lato: "Lato", Helvetica;
+}
+.inter-normal-black-5px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-cape-cod-12px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.bebasneue-normal-san-marino-32px {
+  color: var(--san-marino);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bebasneue-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.hind-normal-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-hind);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-storm-dust-14px {
+  color: var(--storm-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.iceland-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-iceland);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bebasneue-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+html {
+  font-family: "Helvetica Neue", "Arial", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+  font-size: 62.5%;
+  line-height: 1.5;
+}
+body{
+font-size: 1.5rem;
+}
+.page-header {
+  background-color: #fff;
+}
+.page-header h1 {
+  height: 80px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 80px;
+  letter-spacing: 0.1em;
+}
+.page-main {
+  position: relative;
+}
+.page-main > div {
+  padding: 50px 0 100px;
+}
+#buttons1 {
+  background-color: transparent; /*baground body*/
+}
+#buttons1 .inner {
+  position:absolutes;
+  width: 976px;
+  margin: 0 auto;s
+  margin-top: 1000px;
+}
+#buttons1 button {
+  display: block;
+  float: left;
+  width: 224px;
+  height: 80px;
+  margin: 0 30px 30px;
+  padding: 0;
+  font-size: 16px;
+  letter-spacing: 0.15em;
+  color: black;/*text color inside the button 
+  background-color: #3E6EA7; /*bagound button*/
+  border: none;
+  border-radius: 20px;
+}
+.page-footer {
+  background-color: #656565;
+}
+/* Clearfix */
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+/* #button1 2行目 */
+#buttons1 button {
+  border: solid 0px rgba(26,0,224,1.0);
+}
+/* #button1 2行目 */
+#buttons1 button {
+  position: relative;
+}
+#buttons1 button .bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  overflow: hidden;
+}
+#buttons1 button span span {
+  display: block;
+  width: 224px;
+  height: 80px;
+  line-height: 80px;
+  color: #fff;
+  background-color: #1A00E0;
+  border-radius: 20px;
+}
+.down{margin-top: 728px;}
+.title{margin-bottom: 10px ;}
